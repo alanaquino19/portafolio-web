@@ -1,2 +1,15 @@
-# portafolio-web
-Portafolio web realizado con HTML, CSS y JavaScript. Presenta información sobre mi perfil, proyectos, habilidades y medios de contacto. Incluye diseño responsivo, modo oscuro, menú interactivo y formulario funcional mediante Formspree.
+## Estructura del proyecto
+
+```
+portafolio-web
+├── index.html          # Estructura principal de la portafolio web.
+├── style.css           # Diseño y estilo del portafolio web.
+├── script.js           # Funciones y lógica del portafolio web.
+└── README.md           # Documentación del proyecto.
+```
+
+---
+
+## Autor
+
+Alan Aquino.
